@@ -17,6 +17,7 @@ idna==3.7
 Jinja2==3.1.4
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
+lxml==5.2.2
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
@@ -31,7 +32,10 @@ pydantic==2.7.1
 pydantic_core==2.18.2
 pydeck==0.9.1
 Pygments==2.18.0
+PyMuPDF==1.24.4
+PyMuPDFb==1.24.3
 python-dateutil==2.9.0.post0
+python-docx==1.1.2
 python-dotenv==1.0.1
 pytz==2024.1
 referencing==0.35.1
